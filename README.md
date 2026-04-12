@@ -1,14 +1,5 @@
 # Jenkins_demo
 
 
-auto trigger test commit
 
-auto trigger working now (V2 )
- added teh proper url
-testing agan
-dfghsdrtg
 
-sdfvsdfvdsf
-ksdhFIO nasd
-
-nasioe fhioals hdfn workkk this tiememe asf
